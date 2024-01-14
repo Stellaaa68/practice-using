@@ -1,4 +1,6 @@
 print('Hello WORLD')
 a = 1
 c = a+1
-b = print("oo")
+print("oo")
+price = (a+500)
+sales = (price)
